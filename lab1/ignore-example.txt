@@ -1,4 +1,0 @@
-edit content
-git status
-
-lorem ipsium (fake latin)
